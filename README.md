@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Functionality
+
+There is a database of 9 randomly generated strings. you can choose any number of sentences from 1 to 9. if the inputed value is above 9, maximum number - 9 sentences will be printed. If the inputed Value is less than 1, or negative. 1 sentece will be printed.
